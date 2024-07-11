@@ -1,4 +1,3 @@
-#CS 341 Project 2
 #Name: Ahmed Shah
 #Console based Python program using input commands to retrieve data from
 #the SQL MovieLens database
