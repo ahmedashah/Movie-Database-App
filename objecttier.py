@@ -1,4 +1,3 @@
-# Ahmed Shah - CS 341 Project 2 Part 2
 # File: objecttier.py
 #
 # objecttier
